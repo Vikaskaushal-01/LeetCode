@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -26,5 +28,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
