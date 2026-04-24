@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0078-subsets](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
