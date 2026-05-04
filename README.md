@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0016-3sum-closest](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0078-subsets](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
