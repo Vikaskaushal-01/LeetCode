@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -91,4 +92,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0179-largest-number/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
