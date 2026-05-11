@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0066-plus-one](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Binary Search
