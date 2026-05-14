@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0455-assign-cookies](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0455-assign-cookies](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0455-assign-cookies](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
