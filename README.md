@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0189-rotate-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Binary Search
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0455-assign-cookies/) | Easy |
