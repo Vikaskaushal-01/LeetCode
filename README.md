@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0455-assign-cookies](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
