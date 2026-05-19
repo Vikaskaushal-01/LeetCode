@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Binary Search
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0227-basic-calculator-ii](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
