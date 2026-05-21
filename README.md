@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0162-find-peak-element](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Bit Manipulation
