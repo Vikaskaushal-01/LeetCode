@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## String Matching
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
