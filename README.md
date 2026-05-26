@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0089-gray-code](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0189-rotate-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## String
 | Problem Name | Difficulty |
