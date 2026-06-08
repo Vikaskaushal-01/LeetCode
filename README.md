@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0089-gray-code](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0089-gray-code/) | Medium |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Breadth-First Search
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
