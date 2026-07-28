@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vikaskaushal-01/LeetCode/tree/master/0136-single-number) |
@@ -169,12 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Vikaskaushal-01/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
